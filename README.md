@@ -1,2 +1,3 @@
-# Analysis_of_Current_Employment_Situation_in_Korea
-Analysis of University Prestige Bias and Science Favoritism in Korea
+# 한국의 취업 현상황 (학벌주의, 이과 선호 사상)에 대한 분석
+
+
